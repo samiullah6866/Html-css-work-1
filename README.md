@@ -1,4 +1,4 @@
-# Html-css-work-1
+News Template
 THis is My first Projrct in Html css 
 ![Screenshot 2024-09-17 195749](https://github.com/user-attachments/assets/d66df655-bccf-423f-a2c2-7d010a3ecda4)
 This is the output of the code which is down 
